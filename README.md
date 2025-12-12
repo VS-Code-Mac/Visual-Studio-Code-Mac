@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/54025/l/visual-studio-code-logo.png?v=1671090395" width="200" alt="Visual Studio Code application icon"><br>
+<img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="200" alt="Visual Studio Code application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/visual-studio-code">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Visual Studio Code macOS product page">
 </a><br><br>
